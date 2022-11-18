@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp", "WarmUp\WarmUp.csproj", "{A4CB7F9E-353E-471E-AEC2-2F9D99FCB5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4CB7F9E-353E-471E-AEC2-2F9D99FCB5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CB7F9E-353E-471E-AEC2-2F9D99FCB5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CB7F9E-353E-471E-AEC2-2F9D99FCB5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CB7F9E-353E-471E-AEC2-2F9D99FCB5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B7D619-7E66-422C-88DE-537D1377512D}
+	EndGlobalSection
+EndGlobal
